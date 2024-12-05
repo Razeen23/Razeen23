@@ -65,6 +65,8 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 ---
 
+## 💼  Freelancing Projects
+
 ### 🌍 **Sarab Shipping Website**  
 <img width="25%" align="right" alt="Github" src="./assets/sarab.jpg" />
 
