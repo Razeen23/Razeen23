@@ -26,6 +26,18 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 
 ---
+
+
+### <p align="center">My Technical Skills</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,tailwindcss,javascript,react,mysql,nodejs,express,mongodb,git,github,nextjs,typescript" />
+</p>
+
+
+
+
+---
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -116,19 +128,36 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 ## 📈 **GitHub Stats**
 
-<br>
-
+<be>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razeen23&show_icons=true&disable_animations=true&theme=tokyonight&hide_rank=true" alt="Razeen's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen23&disable_animations=true&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Razeen23&disable_animations=true&theme=tokyonight" alt="Razeen GitHub Streak" />
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Razeen23&disable_animations=true&theme=tokyonight" alt="Razeen GitHub Streak"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
 </p>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Razeen23&theme=github_dark"/>
+<!--  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razeen23&show_icons=true&disable_animations=true&theme=tokyonight&hide_rank=true" alt="Razeen's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen23&disable_animations=true&theme=tokyonight" alt="Top Langs"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Razeen23&theme=github_dark"  />
+  -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Razeen23&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Razeen23&theme=github_dark" />
+</div>
+
+
 
 
 ---
 
 ## 🤝 **Hire Me**
+
+**Why Hire Me?**  
+I bring proven experience in full-stack development with technologies like **React.js**, **Node.js**, **PHP**, and **MongoDB**. I’m passionate about building scalable, user-friendly web applications and continuously learning to stay updated with new technologies like **Next.js**. With a strong work ethic, problem-solving skills, and a focus on delivering results, I’m confident I can contribute to your team’s success.
 
 <p align="center">
 <a href="https://www.instagram.com/rider_razeen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rider_razeen" height="30" width="40" /></a>
