@@ -64,7 +64,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🌍 **Sarab Shipping Website**  
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Github" src="./assets/sarab.jpg" />
 
 - Fast and responsive website for a logistics company, enhancing client accessibility.  
 - **My Work**: Developed a fully optimized, mobile-friendly design with a focus on simplicity and usability.  
