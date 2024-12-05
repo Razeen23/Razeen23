@@ -31,7 +31,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,tailwindcss,javascript,react,mysql,nodejs,express,mongodb,git,github,nextjs,typescript" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,tailwindcss,javascript,react,mysql,nodejs,express,mongodb,git,github,nextjs,typescript,firebase" />
 </p>
 
 
