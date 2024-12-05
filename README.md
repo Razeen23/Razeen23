@@ -52,9 +52,11 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 ---
 
-## 💼 ** Client Projects**
+## 💼  Client Projects
 
 ### 🏢 **Hostzop Client Dashboard**  
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - Interactive dashboard for billing details, work requests, and lost items tracking.  
 - **My Work**: Designed the UI/UX, integrated APIs, and implemented data visualizations using D3.js.  
 - **Tech Stack**: HTML, CSS, JavaScript, D3.js  
@@ -62,6 +64,8 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🌍 **Sarab Shipping Website**  
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - Fast and responsive website for a logistics company, enhancing client accessibility.  
 - **My Work**: Developed a fully optimized, mobile-friendly design with a focus on simplicity and usability.  
 - **Tech Stack**: HTML, CSS, JavaScript, PHP  
@@ -70,6 +74,8 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🍴 **Aryaa Foods Website**  
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - Interactive and animated website for showcasing food products.  
 - **My Work**: Designed the site using Figma, developed with React.js and Node.js, ensuring responsiveness.  
 - **Tech Stack**: React.js, TailwindCSS, Three.js, Framer Motion  
@@ -77,7 +83,9 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 ---
 
-### 🌱 **Urban Horticulture Trading**  
+### 🌱 **Urban Horticulture Trading** 
+<img width="35%" align="right" alt="Github" src="./assets/urban.png" />
+
 - Modern single-page website highlighting agricultural solutions.  
 - **My Work**: Built the platform with a clean, mobile-first approach for optimal performance.  
 - **Tech Stack**: HTML, CSS, JavaScript, PHP  
@@ -86,6 +94,8 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🤖 **Face Recognition Attendance System**  
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - A secure and contactless attendance system leveraging face recognition.  
 - **My Work**: Handled data modeling, face detection using CVzone, and Firebase integration.  
 - **Tech Stack**: Python, CVzone, Numpy, Firebase  
