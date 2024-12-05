@@ -1,17 +1,46 @@
-# 🌟 Welcome to Universe! Of RAZEEN 👨‍💻 🚀
+<h2 align="center">🌟 Welcome to Universe Of < RAZEEN /> 👨‍💻 🚀</h2>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h3 align="center">Full-stack Developer | Software Engineer | Diploma in Counseling Psychology</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/razeen-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="razeen-developer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rider_razeen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rider_razeen" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/razeen23/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="razeen23" height="30" width="40" /></a>
+<a href="https://github.com/Razeen23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Razeen23" height="30" width="40" /></a>
+<a href = "mailto: razeen.official23@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
+
 
 Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knack for building scalable and interactive web applications. From crafting intuitive UIs to integrating robust backends, I thrive on delivering impactful digital solutions.  
+
+---
+<h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-| **Category**       | **Technologies**                                                                                                                                             |
+| **Category**        | **Technologies**                                                                                                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Frontend**        | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![React.js](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Backend**         | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white) |
-| **Databases**       | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=firebase&logoColor=white)  |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-red?style=for-the-badge&logo=figma&logoColor=white) |
+| **Frontend**        | ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)  &nbsp; &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)  &nbsp; &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)  &nbsp; &nbsp; ![React.js](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)  &nbsp; &nbsp; ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)  &nbsp; &nbsp; ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)  &nbsp; &nbsp; ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)  &nbsp; &nbsp; ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django&logoColor=white) |
+| **Databases**       | ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)  &nbsp; &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-brightgreen?style=flat&logo=firebase&logoColor=white)  &nbsp; &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)|
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)  &nbsp; &nbsp; ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)  &nbsp; &nbsp; ![Figma](https://img.shields.io/badge/Figma-red?style=flat&logo=figma&logoColor=white) |
 
 ---
 
@@ -64,10 +93,14 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 ---
 
 ## 📈 **GitHub Stats**
+
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razeen23&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen23&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Razeen23&show_icons=true&disable_animations=true&theme=tokyonight&hide_rank=true" alt="Razeen's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen23&disable_animations=true&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Razeen23&disable_animations=true&theme=tokyonight" alt="Razeen GitHub Streak" />
 </p>
+
 
 ---
 
