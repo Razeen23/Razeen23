@@ -21,20 +21,23 @@
 
 Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knack for building scalable and interactive web applications. From crafting intuitive UIs to integrating robust backends, I thrive on delivering impactful digital solutions.  
 
+Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](https://razeen-portfolio.vercel.app/)
+
+
 ---
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 🔭 I’m currently working as a **Full-stack Developer** at **HOSTZOP CLOUD SERVICES PRIVATE LIMITED**.
+
+- 🌱 I’m currently learning **Next.js**, **Data Structures**, and **Algorithms** to improve my development skills.
+
+- 👯 I’m looking to collaborate on **web development projects**, especially focused on building scalable and interactive applications.
+
+- 💬 Ask me about **SQL**, **JavaScript**, **React.js**, **Node.js**, **PHP**, and **MongoDB**.
+
+- ⚡ Fun fact: I love solving coding challenges and exploring new technologies in web development.
 
 ---
 
@@ -111,7 +114,7 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 **Hire Me**
 
 <p align="center">
 <a href="https://www.instagram.com/rider_razeen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rider_razeen" height="30" width="40" /></a>
@@ -124,10 +127,3 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 </p>
 
 
-
-<p align="center">
-  <a href="mailto:razeen.official23@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/razeen-developer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Razeen23"><img src="https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://razeen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=web&logoColor=white" /></a>
-</p>
