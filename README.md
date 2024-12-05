@@ -1,4 +1,6 @@
-<h2 align="center">🌟 Welcome to Universe Of < RAZEEN /> 👨‍💻 🚀</h2>
+<h2 align="center">Welcome to Universe Of < RAZEEN />
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>
+</h2>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -10,6 +12,9 @@
 <a href="https://leetcode.com/u/razeen23/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="razeen23" height="30" width="40" /></a>
 <a href="https://github.com/Razeen23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Razeen23" height="30" width="40" /></a>
 <a href = "mailto: razeen.official23@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://razeen-portfolio.vercel.app/">
+    <img align="center" src="https://github.com/user-attachments/assets/c480daa0-fcd6-4046-9f0d-0ea03e5c37b0" alt="Portfolio Image" height="30" width="30" />
+  </a>
 </p>
 </p>
 
@@ -95,6 +100,8 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 ## 📈 **GitHub Stats**
 
 <br>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razeen23&show_icons=true&disable_animations=true&theme=tokyonight&hide_rank=true" alt="Razeen's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razeen23&disable_animations=true&theme=tokyonight" alt="Top Langs" />
@@ -105,6 +112,19 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 ---
 
 ## 🤝 **Connect with Me**
+
+<p align="center">
+<a href="https://www.instagram.com/rider_razeen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rider_razeen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/razeen-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="razeen23" height="30" width="40" /></a>
+<a href="https://github.com/Razeen23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Razeen23" height="30" width="40" /></a>
+<a href = "mailto: razeen.official23@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://razeen-portfolio.vercel.app/">
+    <img align="center" src="https://github.com/user-attachments/assets/c480daa0-fcd6-4046-9f0d-0ea03e5c37b0" alt="Portfolio Image" height="30" width="30" />
+  </a>
+</p>
+
+
+
 <p align="center">
   <a href="mailto:razeen.official23@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/razeen-developer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
