@@ -5,32 +5,17 @@ Hello there! I’m **Razeen**, a passionate **Full Stack Developer** with a knac
 ---
 
 ## 🛠️ **Tech Stack**
-**Frontend**:  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)  
-![React.js](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)  
-
-**Databases**:  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=firebase&logoColor=white)  
-
-**Tools**:  
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-red?style=for-the-badge&logo=figma&logoColor=white)  
+| **Category**       | **Technologies**                                                                                                                                             |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**        | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![React.js](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white) |
+| **Databases**       | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-brightgreen?style=for-the-badge&logo=firebase&logoColor=white)  |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-red?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
-## 💼 **Projects**
+## 💼 ** Client Projects**
 
 ### 🏢 **Hostzop Client Dashboard**  
 - Interactive dashboard for billing details, work requests, and lost items tracking.  
