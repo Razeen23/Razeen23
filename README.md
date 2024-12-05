@@ -55,11 +55,13 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ## 💼  Client Projects
 
 ### 🏢 **Hostzop Client Dashboard**  
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Hostzop Dashboard Screenshot" src="./assets/hostzop.jpg" />
 
 - Interactive dashboard for billing details, work requests, and lost items tracking.  
 - **My Work**: Designed the UI/UX, integrated APIs, and implemented data visualizations using D3.js.  
 - **Tech Stack**: HTML, CSS, JavaScript, D3.js  
+<br>
+<br>
 
 ---
 
@@ -74,7 +76,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🍴 **Aryaa Foods Website**  
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Github" src="./assets/aryaa.jpg" />
 
 - Interactive and animated website for showcasing food products.  
 - **My Work**: Designed the site using Figma, developed with React.js and Node.js, ensuring responsiveness.  
@@ -84,7 +86,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🌱 **Urban Horticulture Trading** 
-<img width="35%" align="right" alt="Github" src="./assets/urban.png" />
+<img width="25%" align="right" alt="Github" src="./assets/urban.jpg" />
 
 - Modern single-page website highlighting agricultural solutions.  
 - **My Work**: Built the platform with a clean, mobile-first approach for optimal performance.  
@@ -94,7 +96,6 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ---
 
 ### 🤖 **Face Recognition Attendance System**  
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - A secure and contactless attendance system leveraging face recognition.  
 - **My Work**: Handled data modeling, face detection using CVzone, and Firebase integration.  
