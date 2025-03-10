@@ -104,7 +104,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 - Interactive dashboard for billing details, work requests, and lost items tracking.  
 - **My Work**: Designed the UI/UX, integrated APIs, and implemented data visualizations using D3.js.  
-- **Tech Stack**: HTML, CSS, JavaScript, D3.js  
+- **Tech Stack**: HTML, CSS, JavaScript, D3.js, PHP
 <br>
 <br>
 
