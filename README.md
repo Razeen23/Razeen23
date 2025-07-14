@@ -98,7 +98,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 ## 💼 Own Company Website
 
 ### 🏢 SpotCard Business Solutions  
-<img src="./assets/hostzop.jpg" alt="SpotCard Platform Screenshot" align="right" width="25%" />
+<img src="./assets/spotcard.jpg" alt="SpotCard Platform Screenshot" align="right" width="25%" />
 
 **SpotCard** is a smart digital business card platform designed for small businesses, freelancers, and shop owners to easily share their contact details, social media links, and service info via a QR code.
 
@@ -108,8 +108,9 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 - 📱 Mobile-first, responsive design  
 - 💬 Support for multiple contact types (text, images, video, WhatsApp, etc.)
 
-### 🛠️ Tech Stack:
-React.js, Tailwind CSS, PHP, MySQL, Framer Motion
+- - **[Live Website](https://spotcard.in/)**  
+
+
 ----
 
 ## 💼  Client Projects
