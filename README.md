@@ -95,7 +95,7 @@ Feel free to visit my personal portfolio for more details: [Razeen's Portfolio](
 
 ---
 
-## 💼 Own Company Website
+## 💼 Own Website
 
 ### 🏢 SpotCard Business Solutions  
 <img src="./assets/spotcard.jpg" alt="SpotCard Platform Screenshot" align="right" width="25%" />
